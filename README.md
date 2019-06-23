@@ -1,7 +1,7 @@
 # NN-thoughts
 
 ## How to shrink a large NN to a smaller "good enough" NN?
-We spend all this time essentially learning piece-wise linear functions? 
+We spend all this time essentially learning piece-wise linear functions, right? 
 Can we use some sort of projections to shrink?
 
 ## How can one NN "teach" another NN?
