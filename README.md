@@ -9,3 +9,7 @@ Is there a notion of language?
 Model1 has learned rules in A. 
 Model2 has learned rules in A + B. 
 Can Model2 ever express B rules in terms of A that can be conveyed to Model1?
+
+## AI to learn what ML to use?
+Let's set up a simple AI to choose ML approach!
+parameters of problem -> approach to take
